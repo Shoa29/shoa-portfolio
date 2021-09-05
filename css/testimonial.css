@@ -1,0 +1,6 @@
+.review{
+    display: inline-flex;
+}
+.fa-star{
+    color:orange !important;
+}
